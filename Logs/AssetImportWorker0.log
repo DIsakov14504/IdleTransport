@@ -1,0 +1,1286 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/dias/Idle Transport
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53080
+Successfully changed project path to: /Users/dias/Idle Transport
+/Users/dias/Idle Transport
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 26.12 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/dias/Idle Transport/Assets
+GfxDevice: creating device client; threaded=0
+2021-02-02 21:19:27.375 Unity[3100:565086] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics (low power)
+2021-02-02 21:19:27.376 Unity[3100:565086] Metal devices available: 1
+2021-02-02 21:19:27.376 Unity[3100:565086] 0: Intel(R) Iris(TM) Plus Graphics (low power)
+2021-02-02 21:19:27.376 Unity[3100:565086] Using device Intel(R) Iris(TM) Plus Graphics (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56100
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.002472 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 26.10 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.320 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001394 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.097 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.22 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.1 MB.
+System memory in use after: 114.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1561.
+Total: 2.065735 ms (FindLiveObjects: 0.151942 ms CreateObjectMapping: 0.034609 ms MarkObjects: 1.786758 ms  DeleteObjects: 0.091014 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/Menu.unity
+  artifactKey: Guid(0ca0496f806564d97ad3e93a0ae0c13f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Menu.unity using Guid(0ca0496f806564d97ad3e93a0ae0c13f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdf1720a80938e03f52f1d55e00f1d7c') in 0.012711 seconds
+  Import took 0.015708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 160.739899 seconds.
+  path: Assets/Sprites
+  artifactKey: Guid(d31f5742385a7482e86f39ed29aae9ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites using Guid(d31f5742385a7482e86f39ed29aae9ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edd19f733f367059e09492fdf01f5181') in 0.004062 seconds
+  Import took 0.008949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 218.297754 seconds.
+  path: Assets/FreeButtonSet/background.png
+  artifactKey: Guid(a093780a76b8e8c4c8b121e123d21a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/background.png using Guid(a093780a76b8e8c4c8b121e123d21a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd99d966ef1f937530f91eb563517ce04') in 1.339059 seconds
+  Import took 1.342935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003353 seconds.
+  path: Assets/FreeButtonSet/background.png
+  artifactKey: Guid(a093780a76b8e8c4c8b121e123d21a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/background.png using Guid(a093780a76b8e8c4c8b121e123d21a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd99d966ef1f937530f91eb563517ce04') in 0.073898 seconds
+  Import took 0.076789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.354753 seconds.
+  path: Assets/FreeButtonSet/Scenes
+  artifactKey: Guid(98be6b037f328b8438b72e7ffb1ee8cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Scenes using Guid(98be6b037f328b8438b72e7ffb1ee8cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90d9c1c1733f85714cd452d7bc6e2855') in 0.001732 seconds
+  Import took 0.005312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.976696 seconds.
+  path: Assets/FreeButtonSet/Scenes/SampleScene.unity
+  artifactKey: Guid(6d6ffd585253053469f49c7d737db7fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Scenes/SampleScene.unity using Guid(6d6ffd585253053469f49c7d737db7fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ce577422c433ec2694ae0e0a38a8ed2') in 0.003943 seconds
+  Import took 0.007597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 539.709398 seconds.
+  path: Assets/FreeButtonSet/Fonts/Poppins-Bold.ttf
+  artifactKey: Guid(f4c99a340a6e6504aa6e992b7a253612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Fonts/Poppins-Bold.ttf using Guid(f4c99a340a6e6504aa6e992b7a253612) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42ef4eb751913c5f4997cd005d9c7087') in 2.192049 seconds
+  Import took 2.195420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/FreeButtonSet/Fonts/Poppins-MediumItalic.ttf
+  artifactKey: Guid(d1fe0bc1ac9782f4c8f875e1a7cea6d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Fonts/Poppins-MediumItalic.ttf using Guid(d1fe0bc1ac9782f4c8f875e1a7cea6d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d4127a129a5a7ad95085116b4915135') in 0.013292 seconds
+  Import took 0.015581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.141500 seconds.
+  path: Assets/FreeButtonSet/Textures/icons
+  artifactKey: Guid(e98f256333208ad448195894c25efd6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons using Guid(e98f256333208ad448195894c25efd6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '759545696fe73f1c439275af2af09199') in 0.001638 seconds
+  Import took 0.005167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.252595 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/32x32
+  artifactKey: Guid(b8e47262f9f19e943a739a680fc9b2cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/32x32 using Guid(b8e47262f9f19e943a739a680fc9b2cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dd08623a418d7d1434b0846e9cb7b6e') in 0.001922 seconds
+  Import took 0.005553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.063138 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/32x32/arrow_down.png
+  artifactKey: Guid(ca6ff084116929e41a747403f15f808e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/32x32/arrow_down.png using Guid(ca6ff084116929e41a747403f15f808e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37d010388b8bc9868cca1c20bb88fc4f') in 0.018239 seconds
+  Import took 0.020729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/32x32/plus.png
+  artifactKey: Guid(f1d2732960a12434a91c2cba94b04cb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/32x32/plus.png using Guid(f1d2732960a12434a91c2cba94b04cb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2828b5ea9f4d30eb31831ce6a2a800ea') in 0.009925 seconds
+  Import took 0.013144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/32x32/repeat.png
+  artifactKey: Guid(adb9df14921d3844ba1a07fdb2766d3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/32x32/repeat.png using Guid(adb9df14921d3844ba1a07fdb2766d3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '092919bfd820d61a2f128c9b7f6bc681') in 0.027408 seconds
+  Import took 0.030939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000551 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/32x32/arrow_up.png
+  artifactKey: Guid(e79549f1ff9d02e49aec7ac82e66592a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/32x32/arrow_up.png using Guid(e79549f1ff9d02e49aec7ac82e66592a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9f71c4def8edf149914996c81980097') in 0.027651 seconds
+  Import took 0.030989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/32x32/arrow_right.png
+  artifactKey: Guid(23772e19474d2c443b3be8361065a7b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/32x32/arrow_right.png using Guid(23772e19474d2c443b3be8361065a7b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '912abeee6c89e7a0353d67b8be068689') in 0.020289 seconds
+  Import took 0.024313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000661 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/32x32/settings.png
+  artifactKey: Guid(3d29037700e86324989943cee8d473db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/32x32/settings.png using Guid(3d29037700e86324989943cee8d473db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b201d2765c78caee93ae0a7b267b6534') in 0.012458 seconds
+  Import took 0.016095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/32x32/minus.png
+  artifactKey: Guid(a13a11ae513fbe544ad52acf42a1eaa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/32x32/minus.png using Guid(a13a11ae513fbe544ad52acf42a1eaa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd14da2c023fe08b90000299acb711012') in 0.016614 seconds
+  Import took 0.019024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/32x32/arrow_left.png
+  artifactKey: Guid(41bc5d0324757c7439b419ae5397a50e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/32x32/arrow_left.png using Guid(41bc5d0324757c7439b419ae5397a50e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b326197ec00fa605a1bf57798310296c') in 0.022437 seconds
+  Import took 0.024634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000653 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/32x32/info.png
+  artifactKey: Guid(43582e3299335f14fb912e3fbc60e193) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/32x32/info.png using Guid(43582e3299335f14fb912e3fbc60e193) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8113d92ba8c387548bb9d535da63f21c') in 0.011642 seconds
+  Import took 0.015385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000554 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/32x32/share.png
+  artifactKey: Guid(f93fb28de2f7a5f4aa6babd1576b7828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/32x32/share.png using Guid(f93fb28de2f7a5f4aa6babd1576b7828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0750afff680b790a05381b65c25b1bff') in 0.014596 seconds
+  Import took 0.017898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/32x32/user.png
+  artifactKey: Guid(cf47eab53a70c424aad053f375a5f2e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/32x32/user.png using Guid(cf47eab53a70c424aad053f375a5f2e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9574b311a1634bc4a4f80ec54ef985d8') in 0.013276 seconds
+  Import took 0.016104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/32x32/pause.png
+  artifactKey: Guid(8eb9669081de23044bab500123db153d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/32x32/pause.png using Guid(8eb9669081de23044bab500123db153d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2d445cb51ed68973f815f03f7dcf0ba') in 0.016763 seconds
+  Import took 0.019723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/32x32/star.png
+  artifactKey: Guid(12451ffac05266542a4ec30187af9b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/32x32/star.png using Guid(12451ffac05266542a4ec30187af9b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d62a3b4f0cb861be39b5b3119d5c5ef') in 0.011851 seconds
+  Import took 0.015734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000973 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/32x32/message.png
+  artifactKey: Guid(858e29a9128a19c4182ce8b02b9c6683) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/32x32/message.png using Guid(858e29a9128a19c4182ce8b02b9c6683) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf90bcb4cb8c9a3a0faee57cf238c78e') in 0.013360 seconds
+  Import took 0.017673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/32x32/menu.png
+  artifactKey: Guid(873fef88362100240875f61cefb4a8ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/32x32/menu.png using Guid(873fef88362100240875f61cefb4a8ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b783186783bacae0987a501583b7f9d') in 0.018283 seconds
+  Import took 0.021940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/32x32/play.png
+  artifactKey: Guid(77e80d9dad76e74469ce748b77cdbe1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/32x32/play.png using Guid(77e80d9dad76e74469ce748b77cdbe1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8548cc331a0312baff8c1649d3b5dd9') in 0.011288 seconds
+  Import took 0.014682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000512 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/32x32/speaker.png
+  artifactKey: Guid(967aab30d466613409c60a93eee109b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/32x32/speaker.png using Guid(967aab30d466613409c60a93eee109b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f82b9c0bbebf09502cb1e74ed7928bb6') in 0.015522 seconds
+  Import took 0.019948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/32x32/help.png
+  artifactKey: Guid(17616644aaeac474888ce77a1e464cf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/32x32/help.png using Guid(17616644aaeac474888ce77a1e464cf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1b965d163dfc818a9367cc643c24802') in 0.018982 seconds
+  Import took 0.020898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/32x32/x.png
+  artifactKey: Guid(9aeac1c0750d43d498b7e62859763888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/32x32/x.png using Guid(9aeac1c0750d43d498b7e62859763888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1573bc18672ba0143b5a3a385914499') in 0.017323 seconds
+  Import took 0.020383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/32x32/checkmark.png
+  artifactKey: Guid(433f891bf38fed24d91d68c15aae515d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/32x32/checkmark.png using Guid(433f891bf38fed24d91d68c15aae515d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2289fdc11f15bf7e3d3c4b11ec82c9f8') in 0.011505 seconds
+  Import took 0.015649 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/32x32/heart.png
+  artifactKey: Guid(387454f6cd7cc5047bc289d606b175b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/32x32/heart.png using Guid(387454f6cd7cc5047bc289d606b175b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '926dc23c45b0652a035c38a00ad2f271') in 0.017562 seconds
+  Import took 0.020956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.198128 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/128x128
+  artifactKey: Guid(210d51586277b6e4c879d1e8d43cfa53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/128x128 using Guid(210d51586277b6e4c879d1e8d43cfa53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec8c15808021af4a2d7583d19fcacdda') in 0.001707 seconds
+  Import took 0.005133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.072538 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/128x128/arrow_down.png
+  artifactKey: Guid(e968566a79d16394f97ee27c34c6ac78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/128x128/arrow_down.png using Guid(e968566a79d16394f97ee27c34c6ac78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15c77e71c1dc2faa6898aa1c55af62b8') in 0.015736 seconds
+  Import took 0.019122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/128x128/pause.png
+  artifactKey: Guid(b148167244e305a42b332c5e3103a0f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/128x128/pause.png using Guid(b148167244e305a42b332c5e3103a0f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5d658676024a2847994f038d7d9081c') in 0.012798 seconds
+  Import took 0.015243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/128x128/settings.png
+  artifactKey: Guid(19b2b02a9feef8b4fa2f431692a804b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/128x128/settings.png using Guid(19b2b02a9feef8b4fa2f431692a804b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc73caf709fdedb6a8353498bc371a59') in 0.018857 seconds
+  Import took 0.021172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/128x128/info.png
+  artifactKey: Guid(ff8b06e19a717d14d9ff2546436de761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/128x128/info.png using Guid(ff8b06e19a717d14d9ff2546436de761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17e1c73b9bd524b170b61c685eef5a23') in 0.013449 seconds
+  Import took 0.017941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/128x128/repeat.png
+  artifactKey: Guid(0ac274da743a5ab49a17c782a85c7f2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/128x128/repeat.png using Guid(0ac274da743a5ab49a17c782a85c7f2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55249c49181f7d9aa8b7b84e8502d8b2') in 0.018251 seconds
+  Import took 0.021761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/128x128/arrow_up.png
+  artifactKey: Guid(9e197a1515abdbc4b91281eee95e8b33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/128x128/arrow_up.png using Guid(9e197a1515abdbc4b91281eee95e8b33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a2dbf319a3ebd38ac619de657bcc095') in 0.012927 seconds
+  Import took 0.015435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/128x128/message.png
+  artifactKey: Guid(bddaa0bb0da741940878ee1c42248a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/128x128/message.png using Guid(bddaa0bb0da741940878ee1c42248a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98118a6698802a13ad072be8c28698ac') in 0.015907 seconds
+  Import took 0.020105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/128x128/arrow_left.png
+  artifactKey: Guid(d31115fa9cb67004b96bc76f48802b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/128x128/arrow_left.png using Guid(d31115fa9cb67004b96bc76f48802b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ded3b18e368759431b88ece3152f7471') in 0.023627 seconds
+  Import took 0.026054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/128x128/minus.png
+  artifactKey: Guid(120af17437d75844d8f6be3a85cdeb1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/128x128/minus.png using Guid(120af17437d75844d8f6be3a85cdeb1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd274ce44635f736c1e1cb8a2e03c89b') in 0.022873 seconds
+  Import took 0.025329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/128x128/star.png
+  artifactKey: Guid(c45822dd0d148ae4c80084e497c39961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/128x128/star.png using Guid(c45822dd0d148ae4c80084e497c39961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c930c6b010c3b25137f27f337c62d220') in 0.018410 seconds
+  Import took 0.022678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000579 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/128x128/heart.png
+  artifactKey: Guid(6d9f5fb6855ea5f45abfe0b211851ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/128x128/heart.png using Guid(6d9f5fb6855ea5f45abfe0b211851ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd38d0a8052859b0a33d8d78b45427581') in 0.018539 seconds
+  Import took 0.021390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/128x128/arrow_right.png
+  artifactKey: Guid(01d7b388e7827ca45a56bd1b632ffde1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/128x128/arrow_right.png using Guid(01d7b388e7827ca45a56bd1b632ffde1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66af39419cfa5db7e015ab99a9edeb01') in 0.012147 seconds
+  Import took 0.015528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/128x128/x.png
+  artifactKey: Guid(321dfcc1c12d7cf42b0037754b1cdf9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/128x128/x.png using Guid(321dfcc1c12d7cf42b0037754b1cdf9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12b3ef38a512686b312cc624ecd45a18') in 0.019117 seconds
+  Import took 0.023781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000516 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/128x128/speaker.png
+  artifactKey: Guid(a8bf463d0bcbdd440b693618eccf4027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/128x128/speaker.png using Guid(a8bf463d0bcbdd440b693618eccf4027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c555cb98c25cc62366c9cd36b3d84da7') in 0.020501 seconds
+  Import took 0.023337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/128x128/user.png
+  artifactKey: Guid(3b902f226593c084fba20ed761508616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/128x128/user.png using Guid(3b902f226593c084fba20ed761508616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3540d7c13b7e90c5a5f9504d5067262') in 0.017767 seconds
+  Import took 0.020202 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000626 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/128x128/help.png
+  artifactKey: Guid(ee454173d02e05a4f8c74cc6e92fa5ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/128x128/help.png using Guid(ee454173d02e05a4f8c74cc6e92fa5ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0effedcf3a0862400b2c6b03b52b3f2') in 0.012695 seconds
+  Import took 0.016249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/128x128/plus.png
+  artifactKey: Guid(c1d5c0c9c2ed348448cf389548c36f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/128x128/plus.png using Guid(c1d5c0c9c2ed348448cf389548c36f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '013bd963e4b8b1105396cca7c24724ce') in 0.016692 seconds
+  Import took 0.020551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/128x128/menu.png
+  artifactKey: Guid(ec694ac45cee4c34a93f4caf3ab4f155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/128x128/menu.png using Guid(ec694ac45cee4c34a93f4caf3ab4f155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adcd0b14aeff39063a05e91149cd37be') in 0.017361 seconds
+  Import took 0.021281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000990 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/128x128/share.png
+  artifactKey: Guid(0c3c788016f06db4fa4c39433fe3af6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/128x128/share.png using Guid(0c3c788016f06db4fa4c39433fe3af6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5917345d4cfbb1b700db87fab50d5671') in 0.011921 seconds
+  Import took 0.016011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000647 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/128x128/play.png
+  artifactKey: Guid(adf19f966e0379040bb823cbe5375f3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/128x128/play.png using Guid(adf19f966e0379040bb823cbe5375f3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aff821ec618da5c077faeb5d0bdb4630') in 0.019040 seconds
+  Import took 0.022354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/128x128/checkmark.png
+  artifactKey: Guid(874b343cf51efe745b644be33893b09a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/128x128/checkmark.png using Guid(874b343cf51efe745b644be33893b09a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca566f961a1658427c94abd353dc8c06') in 0.016804 seconds
+  Import took 0.020282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.180736 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/128x128/New Terrain Layer.terrainlayer
+  artifactKey: Guid(d819cbf934ed6456aaf55a82597221ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/128x128/New Terrain Layer.terrainlayer using Guid(d819cbf934ed6456aaf55a82597221ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0009a947f0dc63ef954db19552e71af') in 1.306615 seconds
+  Import took 1.310080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 81.951324 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/256x256
+  artifactKey: Guid(13f9659e51a2cf649968c96c521afd3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/256x256 using Guid(13f9659e51a2cf649968c96c521afd3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b40c96b07571505e0449b7f54412ea28') in 0.001911 seconds
+  Import took 0.004756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.063891 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/256x256/arrow_down.png
+  artifactKey: Guid(8e23a03b070b02343ae289c317c04cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/256x256/arrow_down.png using Guid(8e23a03b070b02343ae289c317c04cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c52fcb50640ff923b923b5d751688a5') in 0.033284 seconds
+  Import took 0.037293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/256x256/plus.png
+  artifactKey: Guid(aeb77d0c2986cd448a51409c56ad0aff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/256x256/plus.png using Guid(aeb77d0c2986cd448a51409c56ad0aff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f40365cff2e3806a6f6b7f9676548ce5') in 0.021402 seconds
+  Import took 0.024726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001237 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/256x256/speaker.png
+  artifactKey: Guid(139c4181e893555468a02df6e9fa5a76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/256x256/speaker.png using Guid(139c4181e893555468a02df6e9fa5a76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa04d0938ab483e8eda52c7339a01919') in 0.026586 seconds
+  Import took 0.030286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/256x256/help.png
+  artifactKey: Guid(a1d9cb3eb505c114d8fa17fcbaeb157c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/256x256/help.png using Guid(a1d9cb3eb505c114d8fa17fcbaeb157c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '346776f42e84a9bd628eadf7e640e2ec') in 0.023675 seconds
+  Import took 0.026259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/256x256/message.png
+  artifactKey: Guid(d86ebf4784f9d664eaa8c05a23b31f64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/256x256/message.png using Guid(d86ebf4784f9d664eaa8c05a23b31f64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acc052f5a66a3ad1a1f6f38595a42ec7') in 0.023874 seconds
+  Import took 0.026106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/256x256/x.png
+  artifactKey: Guid(e839e6693c344ad40a5952853a891866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/256x256/x.png using Guid(e839e6693c344ad40a5952853a891866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e95a30e6d64f00c269cccdda8c598f8') in 0.019423 seconds
+  Import took 0.022799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000436 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/256x256/menu.png
+  artifactKey: Guid(508b7276e5631294ab35b053b5a7775c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/256x256/menu.png using Guid(508b7276e5631294ab35b053b5a7775c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc4126c2725daf4cb11897eb2e8fe51a') in 0.021869 seconds
+  Import took 0.025862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/256x256/minus.png
+  artifactKey: Guid(6d3df38cd65ff494387432fd56427bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/256x256/minus.png using Guid(6d3df38cd65ff494387432fd56427bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7431b65fe0cbb7660379bf81367257cd') in 0.020548 seconds
+  Import took 0.023411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/256x256/checkmark.png
+  artifactKey: Guid(9cd6991b040b7fb40808e500b041d545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/256x256/checkmark.png using Guid(9cd6991b040b7fb40808e500b041d545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '893f3defcb7814c01cfbc2cbfd864e14') in 0.020889 seconds
+  Import took 0.024342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/256x256/arrow_left.png
+  artifactKey: Guid(98d20fe739e52024d8acf8e32bf24b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/256x256/arrow_left.png using Guid(98d20fe739e52024d8acf8e32bf24b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a6d381a8a5304e380a24a7c21afdbfd') in 0.020968 seconds
+  Import took 0.025615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/256x256/settings.png
+  artifactKey: Guid(29cd5fa083a9a4d448c49c770629f19e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/256x256/settings.png using Guid(29cd5fa083a9a4d448c49c770629f19e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '701c4c11dae5d1f1d20896e824032e3e') in 0.022787 seconds
+  Import took 0.025264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/256x256/pause.png
+  artifactKey: Guid(39af0f365e48844429e5e9144564e40a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/256x256/pause.png using Guid(39af0f365e48844429e5e9144564e40a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf27508205b22b3a81da63f48b1adb38') in 0.020724 seconds
+  Import took 0.023171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/256x256/star.png
+  artifactKey: Guid(b6a757f6793cb0148a905bea74154284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/256x256/star.png using Guid(b6a757f6793cb0148a905bea74154284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d535878175c4088de114558fa10c4f1') in 0.018633 seconds
+  Import took 0.022819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000957 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/256x256/arrow_up.png
+  artifactKey: Guid(a1e642ac4188cf544b455c79870d43f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/256x256/arrow_up.png using Guid(a1e642ac4188cf544b455c79870d43f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ccfd69fb30f20b12cd28f4c19b857a1') in 0.018249 seconds
+  Import took 0.021547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/256x256/info.png
+  artifactKey: Guid(c3262ee5be33f7e4c8056e8e20b6bdfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/256x256/info.png using Guid(c3262ee5be33f7e4c8056e8e20b6bdfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dbc57e8489db416e5a794ba656b323b') in 0.022595 seconds
+  Import took 0.024954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/256x256/repeat.png
+  artifactKey: Guid(477e16ce3d75d124c8bd76f95fa08730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/256x256/repeat.png using Guid(477e16ce3d75d124c8bd76f95fa08730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebce146f1ce5edfcb6558cfc01ae6eae') in 0.027214 seconds
+  Import took 0.029753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/256x256/user.png
+  artifactKey: Guid(c78d369807d13294aa60a37e1092dc6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/256x256/user.png using Guid(c78d369807d13294aa60a37e1092dc6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a009500c4294472c1cf5ff8fc7944da5') in 0.031176 seconds
+  Import took 0.033573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/256x256/arrow_right.png
+  artifactKey: Guid(841ae3188ba4d9746ba4f4ed86597a98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/256x256/arrow_right.png using Guid(841ae3188ba4d9746ba4f4ed86597a98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f61fa5b8e4beb6d5c1bdce3fc50fb065') in 0.027176 seconds
+  Import took 0.030001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/256x256/play.png
+  artifactKey: Guid(c398922a20f2f984db55718ac2c394f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/256x256/play.png using Guid(c398922a20f2f984db55718ac2c394f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2fbce73d26031ad55686fcad201f2b1') in 0.018837 seconds
+  Import took 0.024254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000503 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/256x256/share.png
+  artifactKey: Guid(f241ab6632e1cb04698e1686dcdb8981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/256x256/share.png using Guid(f241ab6632e1cb04698e1686dcdb8981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30112706d7c4d54f55445864f3e4e764') in 0.020094 seconds
+  Import took 0.025192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/256x256/heart.png
+  artifactKey: Guid(1f9a4714dfc315d48b8e91e5453067ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/256x256/heart.png using Guid(1f9a4714dfc315d48b8e91e5453067ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1fa485642f9fb5d63010eb416634053') in 0.027058 seconds
+  Import took 0.030813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.890112 seconds.
+  path: Assets/FreeButtonSet/Textures/buttons
+  artifactKey: Guid(b0edb74aa1bc1bb468ece3102f026e61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/buttons using Guid(b0edb74aa1bc1bb468ece3102f026e61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58595b391feb01c73884658f10f980dd') in 0.002740 seconds
+  Import took 0.007573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.086033 seconds.
+  path: Assets/FreeButtonSet/Textures/buttons/button_100.png
+  artifactKey: Guid(47eaa4f43430bf14f996b113a313b0cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/buttons/button_100.png using Guid(47eaa4f43430bf14f996b113a313b0cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e596e255683acbdb97e527ef336259df') in 0.020810 seconds
+  Import took 0.023896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000421 seconds.
+  path: Assets/FreeButtonSet/Textures/buttons/button_200.png
+  artifactKey: Guid(c5674c6305843a046beddbb645e3259c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/buttons/button_200.png using Guid(c5674c6305843a046beddbb645e3259c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '772f402253a4cabe5d7f67b34b1e02a1') in 0.020514 seconds
+  Import took 0.024642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000598 seconds.
+  path: Assets/FreeButtonSet/Textures/buttons/button_round_320.png
+  artifactKey: Guid(ed53cef80c26e89409c8c93941be088c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/buttons/button_round_320.png using Guid(ed53cef80c26e89409c8c93941be088c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58effa7ec60d31cef3491fc561feebcb') in 0.028980 seconds
+  Import took 0.032739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/FreeButtonSet/Textures/buttons/button_150.png
+  artifactKey: Guid(cbb5f8f07e6166b4b9b2180a807d81de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/buttons/button_150.png using Guid(cbb5f8f07e6166b4b9b2180a807d81de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd94b6ddd31b60c4cfd733dd0f8010d88') in 0.023035 seconds
+  Import took 0.025450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/FreeButtonSet/Textures/buttons/button_round_220.png
+  artifactKey: Guid(9e8274c61673b8a458365832576005b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/buttons/button_round_220.png using Guid(9e8274c61673b8a458365832576005b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24c1ace1d9e526b3dedb05eebef23eb2') in 0.032056 seconds
+  Import took 0.034205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/FreeButtonSet/Textures/buttons/button_round_400.png
+  artifactKey: Guid(60c4dbe9e87500a4480a6214bdc5cc87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/buttons/button_round_400.png using Guid(60c4dbe9e87500a4480a6214bdc5cc87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da0d9e565b5defc276134d48edfe3a51') in 0.028932 seconds
+  Import took 0.032226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000620 seconds.
+  path: Assets/FreeButtonSet/Textures/buttons/button_round_130.png
+  artifactKey: Guid(0dcdf5b7debd4ba4492217e4975c965e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/buttons/button_round_130.png using Guid(0dcdf5b7debd4ba4492217e4975c965e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea360bdc8b97f75970b9ac4510965139') in 0.030125 seconds
+  Import took 0.033915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2699.461510 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/256x256/4.png
+  artifactKey: Guid(99f1516f7cef54a07a1a6a074a0246bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/256x256/4.png using Guid(99f1516f7cef54a07a1a6a074a0246bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06795d4e89e4f5607d6446415c76aa40') in 0.118453 seconds
+  Import took 0.138860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 188.035227 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/256x256/4 1.png
+  artifactKey: Guid(e590c503f767c49098a47b10fdd5c643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/256x256/4 1.png using Guid(e590c503f767c49098a47b10fdd5c643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdcfeea3e8461204941795c1c7010804') in 0.068157 seconds
+  Import took 0.072261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005520 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/256x256/4 1.png
+  artifactKey: Guid(e590c503f767c49098a47b10fdd5c643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/256x256/4 1.png using Guid(e590c503f767c49098a47b10fdd5c643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdcfeea3e8461204941795c1c7010804') in 0.065972 seconds
+  Import took 0.069326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.655933 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/256x256/4 1.png
+  artifactKey: Guid(e590c503f767c49098a47b10fdd5c643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/256x256/4 1.png using Guid(e590c503f767c49098a47b10fdd5c643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bdd7cc717de05774a2da45438f8ae06') in 0.030090 seconds
+  Import took 0.033687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 140.756681 seconds.
+  path: Assets/Sprites/4.png
+  artifactKey: Guid(6e49684408b9640c69f37d9d95480727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/4.png using Guid(6e49684408b9640c69f37d9d95480727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dff2c535998605abe8cf7e7c71d72404') in 0.059142 seconds
+  Import took 0.065031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.874918 seconds.
+  path: Assets/Sprites/4.png
+  artifactKey: Guid(6e49684408b9640c69f37d9d95480727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/4.png using Guid(6e49684408b9640c69f37d9d95480727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61cbe2765120a368dcd5768573928e45') in 0.041244 seconds
+  Import took 0.046479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 195.582320 seconds.
+  path: Assets/Sprites/4 1.png
+  artifactKey: Guid(c3c28c465d6d84a2e8e6c392f8ade4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/4 1.png using Guid(c3c28c465d6d84a2e8e6c392f8ade4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aa8b24699d35f7dc3cebf266c39c203') in 0.071166 seconds
+  Import took 0.076016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000566 seconds.
+  path: Assets/Sprites/4 1.png
+  artifactKey: Guid(c3c28c465d6d84a2e8e6c392f8ade4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/4 1.png using Guid(c3c28c465d6d84a2e8e6c392f8ade4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aa8b24699d35f7dc3cebf266c39c203') in 0.053080 seconds
+  Import took 0.056399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.447803 seconds.
+  path: Assets/Sprites/4 1.png
+  artifactKey: Guid(c3c28c465d6d84a2e8e6c392f8ade4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/4 1.png using Guid(c3c28c465d6d84a2e8e6c392f8ade4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4270cb4c176164dcfe2df0aeda3622eb') in 0.051249 seconds
+  Import took 0.054679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008443 seconds.
+  path: Assets/Sprites/4 1.png
+  artifactKey: Guid(c3c28c465d6d84a2e8e6c392f8ade4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/4 1.png using Guid(c3c28c465d6d84a2e8e6c392f8ade4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4270cb4c176164dcfe2df0aeda3622eb') in 0.042621 seconds
+  Import took 0.045565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.350694 seconds.
+  path: Assets/Sprites/4 1.png
+  artifactKey: Guid(c3c28c465d6d84a2e8e6c392f8ade4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/4 1.png using Guid(c3c28c465d6d84a2e8e6c392f8ade4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc2072524b58172c93cffbc7ef2d60de') in 0.024043 seconds
+  Import took 0.027193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034874 seconds.
+  path: Assets/Sprites/4 1.png
+  artifactKey: Guid(c3c28c465d6d84a2e8e6c392f8ade4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/4 1.png using Guid(c3c28c465d6d84a2e8e6c392f8ade4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc2072524b58172c93cffbc7ef2d60de') in 0.030073 seconds
+  Import took 0.034800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.864031 seconds.
+  path: Assets/Sprites/4 1.png
+  artifactKey: Guid(c3c28c465d6d84a2e8e6c392f8ade4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/4 1.png using Guid(c3c28c465d6d84a2e8e6c392f8ade4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c235a50b4d145e6a571d2a785420f0e') in 0.037754 seconds
+  Import took 0.040540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027229 seconds.
+  path: Assets/Sprites/4 1.png
+  artifactKey: Guid(c3c28c465d6d84a2e8e6c392f8ade4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/4 1.png using Guid(c3c28c465d6d84a2e8e6c392f8ade4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c235a50b4d145e6a571d2a785420f0e') in 0.037565 seconds
+  Import took 0.041239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 248.900352 seconds.
+  path: Assets/Sprites/4 2.png
+  artifactKey: Guid(0196f08a92fe9463fbe4047644b03d41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/4 2.png using Guid(0196f08a92fe9463fbe4047644b03d41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f61a1277f4eb55401556004064772c7') in 0.065144 seconds
+  Import took 0.070016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.631025 seconds.
+  path: Assets/Sprites/4 2.png
+  artifactKey: Guid(0196f08a92fe9463fbe4047644b03d41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/4 2.png using Guid(0196f08a92fe9463fbe4047644b03d41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd042050e79509845f484d98fe0a3c173') in 0.060326 seconds
+  Import took 0.064478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 138.583632 seconds.
+  path: Assets/Sprites/New Custom Render Texture.asset
+  artifactKey: Guid(79169d1e242174ea5b424b25de8fce4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Custom Render Texture.asset using Guid(79169d1e242174ea5b424b25de8fce4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e95fdec436e687d36201c9cda5c047b4') in 1.304913 seconds
+  Import took 1.308043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.639371 seconds.
+  path: Assets/Sprites/4 3.png
+  artifactKey: Guid(6e8526fa836814d30b15f035c4b850c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/4 3.png using Guid(6e8526fa836814d30b15f035c4b850c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8764d0fee13d892d4208cd533bb57e37') in 0.055359 seconds
+  Import took 0.059081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.626467 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/64x64/arrow_down.png
+  artifactKey: Guid(9c3d15adfbc21d64683a6553e1330d99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/64x64/arrow_down.png using Guid(9c3d15adfbc21d64683a6553e1330d99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98d941486ca3385599a6099b8a937f3e') in 0.038649 seconds
+  Import took 0.062293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/64x64/arrow_left.png
+  artifactKey: Guid(8b93523f32be16548bf56b5a6db4fefe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/64x64/arrow_left.png using Guid(8b93523f32be16548bf56b5a6db4fefe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5435b8123f2a25d481cd684dcaae3a3d') in 0.010754 seconds
+  Import took 0.014302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000494 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/64x64/arrow_right.png
+  artifactKey: Guid(8f85d8ce213015144a117d359c69fcbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/64x64/arrow_right.png using Guid(8f85d8ce213015144a117d359c69fcbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c606fc47f88a4a128c881cf715be4f0f') in 0.026122 seconds
+  Import took 0.029495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.456174 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/64x64/arrow_up.png
+  artifactKey: Guid(632776cb97988674c8daa001a86108a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/64x64/arrow_up.png using Guid(632776cb97988674c8daa001a86108a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23947a3e924096099672fe54b627ab0e') in 0.015496 seconds
+  Import took 0.020887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005400 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/64x64/checkmark.png
+  artifactKey: Guid(a1b36335edc21804d8483d19058e387c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/64x64/checkmark.png using Guid(a1b36335edc21804d8483d19058e387c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5228ffb4cf23053579b000dfbda2230') in 0.019784 seconds
+  Import took 0.023680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000468 seconds.
+  path: Assets/FreeButtonSet/Textures/controls/cross.png
+  artifactKey: Guid(23ada367fb6f84049a2caff0e27e729d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/controls/cross.png using Guid(23ada367fb6f84049a2caff0e27e729d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0659ac0a9b9e48b8c693f924fc1abe3') in 0.016158 seconds
+  Import took 0.020150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/FreeButtonSet/Textures/controls/cross_02.png
+  artifactKey: Guid(3e07fb988be0211469ff5f55f7e8f111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/controls/cross_02.png using Guid(3e07fb988be0211469ff5f55f7e8f111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4046caeec05e6cf32f715920e54c8cdd') in 0.013230 seconds
+  Import took 0.016213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/FreeButtonSet/Textures/controls/cross_04.png
+  artifactKey: Guid(0b723a187b246ad44ad90b0600b1e98e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/controls/cross_04.png using Guid(0b723a187b246ad44ad90b0600b1e98e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a471a57764875c63f60e5e586410273d') in 0.015879 seconds
+  Import took 0.019913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/FreeButtonSet/Textures/controls/cross_02.png
+  artifactKey: Guid(3e07fb988be0211469ff5f55f7e8f111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/controls/cross_02.png using Guid(3e07fb988be0211469ff5f55f7e8f111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4046caeec05e6cf32f715920e54c8cdd') in 0.009329 seconds
+  Import took 0.011669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/64x64/heart.png
+  artifactKey: Guid(8082c022c1e0e004c983dda20809df59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/64x64/heart.png using Guid(8082c022c1e0e004c983dda20809df59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc94bb71fbe6113e0d381ad38cbf4008') in 0.008640 seconds
+  Import took 0.010994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/64x64/minus.png
+  artifactKey: Guid(8d3f1901246a92d4e9ba3f2a8b1c1c2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/64x64/minus.png using Guid(8d3f1901246a92d4e9ba3f2a8b1c1c2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30185a30278a74a961125d659f2291a9') in 0.013350 seconds
+  Import took 0.016045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/64x64/help.png
+  artifactKey: Guid(8143f852c3cbb53489177bce8ed0d104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/64x64/help.png using Guid(8143f852c3cbb53489177bce8ed0d104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6dbede1b3cb2365de94a6ab1368a1a6') in 0.009966 seconds
+  Import took 0.012231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/FreeButtonSet/Textures/controls/slider_handle.png
+  artifactKey: Guid(7bb453e60457740498a4615f241fd210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/controls/slider_handle.png using Guid(7bb453e60457740498a4615f241fd210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '707ae1565d42b874d5fe35a3501dc57d') in 0.009503 seconds
+  Import took 0.011939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/FreeButtonSet/Textures/controls/universal_panel_10.png
+  artifactKey: Guid(3973caf801ba6864d98890213e90590b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/controls/universal_panel_10.png using Guid(3973caf801ba6864d98890213e90590b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4647efccaac4c71821eea615b756069a') in 0.009009 seconds
+  Import took 0.011368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/64x64/speaker.png
+  artifactKey: Guid(2f01ca04470c3934a848ba73884b019a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/64x64/speaker.png using Guid(2f01ca04470c3934a848ba73884b019a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74510d967b49e18f379decb49fa50237') in 0.017764 seconds
+  Import took 0.021013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/FreeButtonSet/Textures/controls/toggle_bg_200.png
+  artifactKey: Guid(c8dec52db7cb0f148b53038d975761ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/controls/toggle_bg_200.png using Guid(c8dec52db7cb0f148b53038d975761ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed79d7b4bd97bde6d1247edaac19658e') in 0.012037 seconds
+  Import took 0.014153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/FreeButtonSet/Textures/controls/universal_panel_40.png
+  artifactKey: Guid(8174901dff2facb4583e976f866ae424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/controls/universal_panel_40.png using Guid(8174901dff2facb4583e976f866ae424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8068bbf3c5aa9479c77468cbacbec65c') in 0.009583 seconds
+  Import took 0.012208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/64x64/x.png
+  artifactKey: Guid(f83e9462d8dbe654b9dc1ea2294dba0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/64x64/x.png using Guid(f83e9462d8dbe654b9dc1ea2294dba0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c62c7b4f19f527473ab3f39f573c8ad') in 0.018282 seconds
+  Import took 0.020215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/64x64/repeat.png
+  artifactKey: Guid(ea998e3294889624985351560923ba0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/64x64/repeat.png using Guid(ea998e3294889624985351560923ba0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93133eccc6792cb6a1f0ff93f6d7273b') in 0.011389 seconds
+  Import took 0.014154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/64x64/user.png
+  artifactKey: Guid(ca09d89e4979d814d87dd1e020aa41e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/64x64/user.png using Guid(ca09d89e4979d814d87dd1e020aa41e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54434afde2002054e19b319a263d90ab') in 0.022480 seconds
+  Import took 0.024436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/FreeButtonSet/Textures/controls/radio_100.png
+  artifactKey: Guid(6dc228d444644bf4aaa19d2692169a6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/controls/radio_100.png using Guid(6dc228d444644bf4aaa19d2692169a6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51e7aa762f5687f47d88e8d0a894938b') in 0.009989 seconds
+  Import took 0.013192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/64x64/menu.png
+  artifactKey: Guid(eae15a34ba5cbdd40accbe87e85f2c40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/64x64/menu.png using Guid(eae15a34ba5cbdd40accbe87e85f2c40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa949c810077bf8242447ce0afa984a0') in 0.027490 seconds
+  Import took 0.030554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/64x64/message.png
+  artifactKey: Guid(c9c5499f2f571d14381f63343c1fdba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/64x64/message.png using Guid(c9c5499f2f571d14381f63343c1fdba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '890eddc1b51bf102cbc1b4cb01684f5b') in 0.009384 seconds
+  Import took 0.011297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/FreeButtonSet/Textures/controls/toggle_bg_100.png
+  artifactKey: Guid(aab425c33cbffa54f9b628133d2720b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/controls/toggle_bg_100.png using Guid(aab425c33cbffa54f9b628133d2720b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79c7b1a5fa3038fdff07378a35bece67') in 0.028491 seconds
+  Import took 0.031038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/64x64/play.png
+  artifactKey: Guid(a2f31c578b2fbc1469b71626553cc735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/64x64/play.png using Guid(a2f31c578b2fbc1469b71626553cc735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '871b9beb5f755544c366bb96201edae8') in 0.020876 seconds
+  Import took 0.023796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000761 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/64x64/plus.png
+  artifactKey: Guid(8eae9b570f1669645b57010213c6d893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/64x64/plus.png using Guid(8eae9b570f1669645b57010213c6d893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff87649438b913876768cb173c097971') in 0.012411 seconds
+  Import took 0.017727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/FreeButtonSet/Textures/controls/radio_60.png
+  artifactKey: Guid(15c761738c04fb84f94247a1a932296d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/controls/radio_60.png using Guid(15c761738c04fb84f94247a1a932296d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0c72a4cf40272874167b37ca7a46ca7') in 0.018596 seconds
+  Import took 0.023404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000557 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/64x64/info.png
+  artifactKey: Guid(e06eebf644bc5c84cb5d23b9d62ee3cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/64x64/info.png using Guid(e06eebf644bc5c84cb5d23b9d62ee3cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1be20f569adf59bc1e28c21d7d4ec37a') in 0.012875 seconds
+  Import took 0.016003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/64x64/pause.png
+  artifactKey: Guid(75c6c57e72a33de42bcf6efefad9c957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/64x64/pause.png using Guid(75c6c57e72a33de42bcf6efefad9c957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63c61e77179c5de7294609a01f9338bc') in 0.014651 seconds
+  Import took 0.018096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/FreeButtonSet/Textures/controls/radio.png
+  artifactKey: Guid(86e22cb95296c5a4c8def60eb36ea233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/controls/radio.png using Guid(86e22cb95296c5a4c8def60eb36ea233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fed44c3f59c83fe33f7cdf5e364e9e42') in 0.009321 seconds
+  Import took 0.011654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/64x64/settings.png
+  artifactKey: Guid(15c763ef71e34a044933912d647cc1f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/64x64/settings.png using Guid(15c763ef71e34a044933912d647cc1f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7220915ef17f98f0505643a6994c98d0') in 0.028036 seconds
+  Import took 0.030451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/FreeButtonSet/Textures/controls/cross_03.png
+  artifactKey: Guid(30d0c1f6e89bd9a4cb44dc43c24aab8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/controls/cross_03.png using Guid(30d0c1f6e89bd9a4cb44dc43c24aab8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9ceff21a105af3da39099414b4dcf9d') in 0.014997 seconds
+  Import took 0.018283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/64x64/share.png
+  artifactKey: Guid(3f6cfdbb06013874db300a068be370b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/64x64/share.png using Guid(3f6cfdbb06013874db300a068be370b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b8d9c0aacbbb1257f34d3322790143c') in 0.009110 seconds
+  Import took 0.011125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/FreeButtonSet/Textures/icons/64x64/star.png
+  artifactKey: Guid(2d2d75d383dae9b40b9b53a931127253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/icons/64x64/star.png using Guid(2d2d75d383dae9b40b9b53a931127253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed9abbf48bacf5446e1c26d600fbdda1') in 0.024700 seconds
+  Import took 0.029865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/FreeButtonSet/Textures/controls/radio_200.png
+  artifactKey: Guid(6a4c582ed02cf4e40954a044796d37ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/controls/radio_200.png using Guid(6a4c582ed02cf4e40954a044796d37ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c842dcd9d15a911e922a42fd1dbc90d8') in 0.017693 seconds
+  Import took 0.021289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000476 seconds.
+  path: Assets/FreeButtonSet/Textures/controls/universal_panel_20.png
+  artifactKey: Guid(953de0a59c3f3c7498ecb7496a450d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/controls/universal_panel_20.png using Guid(953de0a59c3f3c7498ecb7496a450d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '224c3f428d0e4d9fd9e0b7bb073d0ae1') in 0.016301 seconds
+  Import took 0.021613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000675 seconds.
+  path: Assets/FreeButtonSet/Textures/controls/toggle_bg_50.png
+  artifactKey: Guid(bd38c9e672875e046aaf4d5369356d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FreeButtonSet/Textures/controls/toggle_bg_50.png using Guid(bd38c9e672875e046aaf4d5369356d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f730a59a816cc74f0bf82a94ae3874d8') in 0.028396 seconds
+  Import took 0.035626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 196.334387 seconds.
+  path: Assets/Sprites/4.png
+  artifactKey: Guid(6e49684408b9640c69f37d9d95480727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/4.png using Guid(6e49684408b9640c69f37d9d95480727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'decf39f6b994a9fcb029973d4574e7ab') in 0.060268 seconds
+  Import took 0.063478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 125.406524 seconds.
+  path: Assets/Sprites/New Render Texture.renderTexture
+  artifactKey: Guid(63ef09f2fea524b95ab7a1de7a2a56fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Render Texture.renderTexture using Guid(63ef09f2fea524b95ab7a1de7a2a56fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91950424821da59cf56a4b593b64aa1d') in 0.308473 seconds
+  Import took 0.312258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.366106 seconds.
+  path: Assets/Sprites/4 1.png
+  artifactKey: Guid(c3c28c465d6d84a2e8e6c392f8ade4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/4 1.png using Guid(c3c28c465d6d84a2e8e6c392f8ade4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cba066364207f74e2401056ae54bf244') in 0.064940 seconds
+  Import took 0.069420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.437295 seconds.
+  path: Assets/Sprites/4 1.png
+  artifactKey: Guid(c3c28c465d6d84a2e8e6c392f8ade4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/4 1.png using Guid(c3c28c465d6d84a2e8e6c392f8ade4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1d2e7c7de8c9117ac62db06cf563317') in 0.066162 seconds
+  Import took 0.070804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 112.687085 seconds.
+  path: Assets/Sprites/4.png
+  artifactKey: Guid(6e49684408b9640c69f37d9d95480727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/4.png using Guid(6e49684408b9640c69f37d9d95480727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7d4bbb8774e7ec73ac41f137b286ee8') in 0.039656 seconds
+  Import took 0.043623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010879 seconds.
+  path: Assets/Sprites/4.png
+  artifactKey: Guid(6e49684408b9640c69f37d9d95480727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/4.png using Guid(6e49684408b9640c69f37d9d95480727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7d4bbb8774e7ec73ac41f137b286ee8') in 0.021012 seconds
+  Import took 0.024506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.433647 seconds.
+  path: Assets/Sprites/4 1.png
+  artifactKey: Guid(c3c28c465d6d84a2e8e6c392f8ade4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/4 1.png using Guid(c3c28c465d6d84a2e8e6c392f8ade4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a00ee553c213ca17007afe8e76fa0169') in 0.039730 seconds
+  Import took 0.044078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011516 seconds.
+  path: Assets/Sprites/4 1.png
+  artifactKey: Guid(c3c28c465d6d84a2e8e6c392f8ade4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/4 1.png using Guid(c3c28c465d6d84a2e8e6c392f8ade4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a00ee553c213ca17007afe8e76fa0169') in 0.018382 seconds
+  Import took 0.022682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 762.466539 seconds.
+  path: Assets/Project25.mp3
+  artifactKey: Guid(5e022b1a1c39e4eb580db8ea0f354211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project25.mp3 using Guid(5e022b1a1c39e4eb580db8ea0f354211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23f158882e19f3daccb384f8e8096347') in 1.483974 seconds
+  Import took 1.488958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 685.602236 seconds.
+  path: Assets/Project25.wav
+  artifactKey: Guid(f0d34eb17e3254ec5ad825838750e717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Project25.wav using Guid(f0d34eb17e3254ec5ad825838750e717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e000fcbd805e39cd1b5e5374271c61c') in 1.778916 seconds
+  Import took 1.782341 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001414 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.693 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 149.9 MB.
+System memory in use after: 149.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1647.
+Total: 6.884879 ms (FindLiveObjects: 0.664391 ms CreateObjectMapping: 0.189371 ms MarkObjects: 5.755335 ms  DeleteObjects: 0.271574 ms)
+
