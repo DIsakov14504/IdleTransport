@@ -6,7 +6,7 @@ public class Follower : MonoBehaviour
 {
     public PathCreation.PathCreator path;
     public float speed = 5;
-    public float distance = 0;
+    public float distance;
     // Start is called before the first frame update
     void Start()
     {
