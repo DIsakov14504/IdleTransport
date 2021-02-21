@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/PathCreator/Examples/Scripts/PathSpawner.cs" />
+    <Compile Include="Assets/Scripts/SpawnTrain.cs" />
     <Compile Include="Assets/PathCreator/Examples/Scripts/GeneratePathExample.cs" />
     <Compile Include="Assets/PathCreator/Examples/Scripts/PathSceneTool.cs" />
     <Compile Include="Assets/PathCreator/Examples/Scripts/PathFollower.cs" />
@@ -64,8 +65,7 @@
     <Compile Include="Assets/PathCreator/Examples/Scripts/PathPlacer.cs" />
     <Compile Include="Assets/PathCreator/Examples/Scripts/RoadMeshCreator.cs" />
     <Compile Include="Assets/Scripts/Follower.cs" />
-    <Compile Include="Assets/Scripts/MoveTrain.cs" />
-    <Compile Include="Assets/Scripts/SpawnTrain.cs" />
+    <Compile Include="Assets/Scripts/Loco.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
