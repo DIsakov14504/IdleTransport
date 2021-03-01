@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{AB17BD71-F8F5-FE43-26DF-26925648DFC9}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Loco.cs">
     <Files>
+      <File FileName="Assets/Scripts/Loco.cs" Line="57" Column="33" />
       <File FileName="Assets/Scripts/Follower.cs" Line="29" Column="2" />
-      <File FileName="Assets/Scripts/RotateCamera.cs" Line="16" Column="38" />
-      <File FileName="Assets/Scripts/SpawnTrain.cs" Line="23" Column="82" />
-      <File FileName="Assets/Scripts/Loco.cs" Line="23" Column="46" />
+      <File FileName="Assets/Scripts/RotateCamera.cs" />
+      <File FileName="Assets/Scripts/SpawnTrain.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -22,7 +22,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="baf8c3a3-2f3e-439b-9e8d-3cb40e5cccfc" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e7dd3dea-4689-401a-bee3-3f8e381ceccd" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -1,6 +1,8 @@
 using System.Collections;
-using System.Collections.Generic;
+using System;
 using UnityEngine;
+using UnityEngine.UI;
+
 
 public class Loco : MonoBehaviour
 {
@@ -8,9 +10,11 @@ public class Loco : MonoBehaviour
     public float speed;
     public float distance;
     public GameObject holder;
+    public Text text;
     int dst = 10;
     int count;
-    float sumDistance = 0;
+    public float sumDistance = 0;
+    public float locoDistance = 2000;
     // Start is called before the first frame update
     void Start()
     {
@@ -20,7 +24,7 @@ public class Loco : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        sumDistance = speed * Time.deltaTime;
+        sumDistance += speed * Time.deltaTime;
         distance += speed * Time.deltaTime;
         transform.position = path.path.GetPointAtDistance(distance) + new Vector3(0, 1, 0);
         transform.rotation = path.path.GetRotationAtDistance(distance);
@@ -28,6 +32,10 @@ public class Loco : MonoBehaviour
         if (distance >= 550)
         {
             distance = 0;
+            int money = Convert.ToInt32(text.GetComponent<Text>().text);
+            money += Convert.ToInt32(sumDistance / (locoDistance / 100));
+            money += holder.transform.childCount * 50;
+            text.GetComponent<Text>().text = Convert.ToString(money);
         }
         if (distance < 50 && distance > 20 || distance < 200 && distance > 170 || distance < 345 && distance > 315 || distance < 440 && distance > 410)
         {
@@ -42,6 +50,11 @@ public class Loco : MonoBehaviour
             {
                 speed += 0.2f;
             }
+        }
+        if (sumDistance >= locoDistance)
+        {
+            Destroy(holder);
+            Destroy(gameObject);
         }
     }
 }
